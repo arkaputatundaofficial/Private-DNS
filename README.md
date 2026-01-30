@@ -1,13 +1,17 @@
 # Private DNS
 ![](https://img.shields.io/badge/Release-v1.0-blue)
 
-A simple, lightweight Android app that lets you **toggle & manage the in-built Private DNS (DNS over TLS) settings** on your device with ease — without digging through system settings every time.
+A simple, lightweight Android app that lets you **toggle & manage the in-built Private DNS (DNS over TLS) settings** on your device with ease without digging through system settings every time.
 
 ## 📥 Download
 [<img alt="Get it on GitHub" src="https://raw.githubusercontent.com/Kunzisoft/Github-badge/main/get-it-on-github.png" width="240">](https://github.com/arkaputatundaofficial/Private-DNS/releases/download/v1.0/app-release.apk)
 
 ## 🖼️ Screenshots
-
+<a href="https://raw.githubusercontent.com/arkaputatundaofficial/Private-DNS/main/assets/screenshot1.jpg"><img src="assets/screenshot1.jpg" height="240px"/></a>
+<a href="https://raw.githubusercontent.com/arkaputatundaofficial/Private-DNS/main/assets/screenshot2.jpg"><img src="assets/screenshot2.jpg" height="240px"/></a>
+<a href="https://raw.githubusercontent.com/arkaputatundaofficial/Private-DNS/main/assets/screenshot3.jpg"><img src="assets/screenshot3.jpg" height="240px"/></a>
+<a href="https://raw.githubusercontent.com/arkaputatundaofficial/Private-DNS/main/assets/screenshot4.jpg"><img src="assets/screenshot4.jpg" height="240px"/></a>
+<a href="https://raw.githubusercontent.com/arkaputatundaofficial/Private-DNS/main/assets/screenshot5.jpg"><img src="assets/screenshot5.jpg" height="240px"/></a>
 
 ## 📱 Requirements
 
