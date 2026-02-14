@@ -28,7 +28,7 @@ You can use providers like:
 
 *(You are free to use any provider you trust.)*
 
-<a href="https://www.buymeacoffee.com/yourusername">
+<a href="https://buymeacoffee.com/arkaputatunda">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
 
